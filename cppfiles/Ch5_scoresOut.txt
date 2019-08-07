@@ -1,0 +1,7 @@
+Steve       Gill        89.00 C
+Rita        Johnson     91.50 A
+Randy       Brown       85.50 C
+Seema       Arora       76.50 D
+Samir       Mann        73.00 D
+Samantha    McCoy       88.50 C
+

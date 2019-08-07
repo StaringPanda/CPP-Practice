@@ -1,0 +1,7 @@
+For loops should be used in a program, when the number of
+repetitions can be determined in advance, by you or the program.
+
+While loops should be used when you or the program, cannot determine the number of repetitions in advance and when that number could be 0.
+
+Do...while loops is the same rule as the while loop but there
+will be at least one guaranteed repetition.

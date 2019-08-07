@@ -1,0 +1,8 @@
+cd cpp To complie C code do the following in the appropiate directory in the cmd line as administrator
+To be the Admin right click cmd when you search it using the windows button + S and then select run as administrator
+
+g++ filename.cpp -o filename.exe
+
+Next type the following in cmd to run your executable
+
+filename.exe
